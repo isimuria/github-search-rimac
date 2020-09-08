@@ -2,7 +2,7 @@ POKRETANJE APLIKACIJE<BR>
 npm install && npm start
 <BR><BR>
 
-BILJESKE 
+BILJESKE <BR>
 Koristio sam ovaj boilerplate https://react-boilerplate.github.io/react-boilerplate-cra-template/ koji je vec imao github search REST api pozive pomocu redux-saga i prikaz repos-a po imenu profila pa mi je bilo logicno koristiti ga kao temelj aplikacije. 
 
 CSS se temelji na styled componentsima sa kojima sam vec upoznat iz trenutnog zaposlenja pa mi je bilo logicno ostatak layout-a napraviti na taj nacin. 
