@@ -1,4 +1,6 @@
 POKRETANJE APLIKACIJE<BR>
+Prvo napravite github token https://github.com/settings/tokens<BR>
+podesite token u .env fajlu<BR>
 npm install && npm start
 <BR><BR>
 
