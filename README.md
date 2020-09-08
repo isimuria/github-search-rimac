@@ -1,3 +1,7 @@
+DEMO 
+Ako zelite odma vidjeti kako aplikacija radi
+https://5f57c549bed3c1012b003a0d--gitrimac.netlify.app/
+
 POKRETANJE APLIKACIJE<BR>
 Prvo napravite github token https://github.com/settings/tokens<BR>
 podesite token u .env fajlu<BR>
@@ -12,7 +16,7 @@ CSS se temelji na styled componentsima sa kojima sam vec upoznat iz trenutnog za
 DJELOVI IZ ZADATKA i PDF-a
 - Osnovni prikaz repo-a je vec bio dio ovog boilerplate-a. Izmjenio sam layout da ga prilagodim onim zahtjevima iz zadatka. Dodao sam ikone, opis svakog repo-a, poboljsao UI/UX.
 
-- Za prikaz imena, emaila i korisnika sam isto nastavio koristiti styled komponents. 
+- Za prikaz imena, emaila i korisnika sam isto nastavio koristiti styled komponents. Neki korisnici nemaju javni email pa sam u tom slucaju stavio n/a, isto tako i za opis repozitorija kad ga nema.
 
 - Zbog zahtjeva za emailom svakog korisnika morao se ukljuciti jos jedan poziv na api jer u repository listi nema emaila od korisnika.
 
