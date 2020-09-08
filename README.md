@@ -1,4 +1,4 @@
-DEMO APLIKACIJE<BR>
+DEMO <BR>
 https://5f57c549bed3c1012b003a0d--gitrimac.netlify.app/
 
 POKRETANJE APLIKACIJE<BR>
