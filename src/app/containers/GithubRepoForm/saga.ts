@@ -35,7 +35,7 @@ export function* getUser() {
   const requestOptions = {
     method: 'get',
     headers: new Headers({
-      Authorization: 'token cb1cf5b1d3349fdf7426777f9ee47f992d3c167b',
+      Authorization: `token ${process.env.REACT_APP_GITHUB_KEY}`
     }),
   };
 
