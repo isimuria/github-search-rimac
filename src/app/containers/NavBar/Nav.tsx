@@ -16,7 +16,7 @@ export function Nav() {
         Github Search for Rimac Documentation
       </Item>
       <Item
-        href="https://github.com/"
+        href="https://github.com/isimuria/github-search-rimac"
         target="_blank"
         title="Github Page"
         rel="noopener noreferrer"
