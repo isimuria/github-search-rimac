@@ -1,5 +1,4 @@
-DEMO <BR>
-Ako zelite odma vidjeti kako aplikacija radi<BR>
+DEMO APLIKACIJE<BR>
 https://5f57c549bed3c1012b003a0d--gitrimac.netlify.app/
 
 POKRETANJE APLIKACIJE<BR>
