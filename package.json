@@ -54,7 +54,7 @@
     "typescript": "3.8.2"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "env-cmd .env.development react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
@@ -118,5 +118,8 @@
         "statements": 90
       }
     }
+  },
+  "devDependencies": {
+    "env-cmd": "10.1.0"
   }
 }

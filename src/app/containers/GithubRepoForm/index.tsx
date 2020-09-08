@@ -25,6 +25,7 @@ export function GithubRepoForm() {
   useInjectReducer({ key: sliceKey, reducer: reducer });
   useInjectSaga({ key: sliceKey, saga: githubRepoFormSaga });
  
+  console.log(process.env.GITHUB_KEY)
   const username = useSelector(selectUsername);
   const repos = useSelector(selectRepos);
   const userData = useSelector(selectUserData);
